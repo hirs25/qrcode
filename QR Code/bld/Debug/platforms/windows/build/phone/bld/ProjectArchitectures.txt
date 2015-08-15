@@ -1,0 +1,1 @@
+c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\CordovaApp.Phone.jsproj;neutral

@@ -1,0 +1,23 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\split.pri"			"resources.pri"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\scripts\winstore-jscompat.js"			"www\scripts\winstore-jscompat.js"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\scripts\platformOverrides.js"			"www\scripts\platformOverrides.js"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\scripts\index.js"			"www\scripts\index.js"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\Project_Readme.html"			"www\Project_Readme.html"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\index.html"			"www\index.html"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\css\index.css"			"www\css\index.css"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\cordova_plugins.js"			"www\cordova_plugins.js"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\cordova.js"			"www\cordova.js"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\www\Code"			"www\Code"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\images\Wide310x150Logo.scale-240.png"			"images\Wide310x150Logo.scale-240.png"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\images\StoreLogo.scale-240.png"			"images\StoreLogo.scale-240.png"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\images\Square71x71Logo.scale-240.png"			"images\Square71x71Logo.scale-240.png"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\images\Square44x44Logo.scale-240.png"			"images\Square44x44Logo.scale-240.png"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\images\Square150x150Logo.scale-240.png"			"images\Square150x150Logo.scale-240.png"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\images\SplashScreenPhone.scale-240.png"			"images\SplashScreenPhone.scale-240.png"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\images\SplashScreen.scale-240.png"			"images\SplashScreen.scale-240.png"
+"c:\Users\Hiren\Documents\Visual Studio 2013\Projects\QR Code\QR Code\bld\Debug\platforms\windows\build\phone\bld\PackageLayout\config.xml"			"config.xml"
